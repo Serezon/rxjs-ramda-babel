@@ -8,6 +8,7 @@
     "@babel/core": "^7.4.4",
     "@babel/preset-env": "^7.4.4",
     "babel-loader": "^8.0.5",
+    "ramda": "^0.26.1",
     "rxjs": "^6.5.1",
     "webpack": "^4.30.0",
     "xmlhttprequest": "^1.8.0"
