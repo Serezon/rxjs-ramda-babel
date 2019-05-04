@@ -1,0 +1,22 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Serezon",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-loader": "^8.0.5",
+    "rxjs": "^6.5.1",
+    "webpack": "^4.30.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "scripts": {
+    "build": "webpack --mode production",
+    "webpack": "webpack --watch"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.1"
+  }
+}
